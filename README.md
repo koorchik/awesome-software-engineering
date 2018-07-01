@@ -1,9 +1,10 @@
 # Awesome Software Engineering
 List of articles that make you a better software engineer
 
-## Productivity tools
+## Chrome dev tools
+Here you can find a list of features of chrome dev tools that will make you more productive.
 
-#### Chrome dev tools: Code coverage
+#### Code coverage
 Allows you to see what JavaScript/CSS code was executed. You can solve to issues with it:
 
 1. Find dead code.
@@ -32,3 +33,10 @@ Without rel="noopener" a newly opened page will be executed in the same process 
 You open a site, switch to another tab and the site replaces it with gmail/whatever fishing version.
 
 * http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/
+
+## Web tachnologies
+
+#### JavaScript modules on the web (in browsers)
+Article is easy to read. Main takeaway - for now, you should bundle your dependencies in one file as usual. "modulepreload" will not help you a lot. And the second one - consider usage of "nomodule" attribute to load untranspiled bundle on modern browsers.
+
+* https://developers.google.com/web/fundamentals/primers/modules
