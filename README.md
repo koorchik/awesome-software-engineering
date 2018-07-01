@@ -3,10 +3,10 @@ List of articles that make you a better software engineer
 
 ## Productivity tools
 
-##### Chrome dev tools: Code coverage
+#### Chrome dev tools: Code coverage
 Allows you to see what JavaScript/CSS code was executed. You can solve to issues with it:
 
-1. Find dead code
+1. Find dead code.
 2. Estimate your code splitting efficiency. 
 
 * https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf
