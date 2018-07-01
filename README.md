@@ -1,5 +1,6 @@
-# Awesome Software Engineering
-List of articles that make you a better software engineer
+# Everything that makes you a better software engineer.
+A lot of software engineers ask me about how to become a better software engineer. I believe that this page can help with i (at least a little bit).
+
 
 ## Chrome dev tools
 Here you can find a list of features of chrome dev tools that will make you more productive.
