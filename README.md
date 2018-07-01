@@ -34,7 +34,7 @@ You open a site, switch to another tab and the site replaces it with gmail/whate
 
 * http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/
 
-## Web tachnologies
+## Web technologies
 
 #### JavaScript modules on the web (in browsers)
 Article is easy to read. Main takeaway - for now, you should bundle your dependencies in one file as usual. "modulepreload" will not help you a lot. And the second one - consider usage of "nomodule" attribute to load untranspiled bundle on modern browsers.
