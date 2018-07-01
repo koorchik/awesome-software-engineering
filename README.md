@@ -1,6 +1,7 @@
-# Everything that makes you a better software engineer.
-A lot of software engineers ask me about how to become a better software engineer. I believe that this page can help with i (at least a little bit).
+# Everything that makes you a better software engineer
+A lot of software engineers ask me about how to become a better software engineer. I believe that this page can help with i (at least a little bit). 
 
+I collect here only things that I've read and tried! I NEVER add here anything that was not read/tried by me!
 
 ## Chrome dev tools
 Here you can find a list of features of chrome dev tools that will make you more productive.
@@ -41,3 +42,29 @@ You open a site, switch to another tab and the site replaces it with gmail/whate
 Article is easy to read. Main takeaway - for now, you should bundle your dependencies in one file as usual. "modulepreload" will not help you a lot. And the second one - consider usage of "nomodule" attribute to load untranspiled bundle on modern browsers.
 
 * https://developers.google.com/web/fundamentals/primers/modules
+
+## Books
+
+List of must really great books.
+
+#### Code Complete: A Practical Handbook of Software Construction, Second Edition
+It is definetely one of the best practical books for software engineers.
+
+Why to read: TODO
+
+* https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670
+
+#### Patterns of Enterprise Application Architecture
+It is a great book. Oppposite to GOF's pattern it is more about understanding of your architecture that about tactical everyday patterns.
+
+Why to read: TODO
+
+* https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420
+
+## Papers
+Just list of interesting and easy to read papers
+
+## Online courses
+List of great online courses
+
+
